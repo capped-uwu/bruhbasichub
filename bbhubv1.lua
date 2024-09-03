@@ -12707,7 +12707,7 @@ end)
 
 local Doors = Scripts:Channel("Doors")
 
-local kjtpijwoie3 = Universal:Label("Doors script")
+local kjtpijwoie3 = Doors:Label("Doors script")
 
 local DRRs1 = Doors:Button("FFJHUB", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/FFJ1/Roblox-Exploits/main/scripts/Loader.lua"))()
